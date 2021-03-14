@@ -1,0 +1,86 @@
+a {
+    text-decoration: none;
+}
+span {
+    margin: 10px;
+}
+.max {
+    width: 1420px;
+    height: 640px;
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(25, 25, 25);
+}
+/* 左侧内容 */
+.left-box {
+    width: 220px;
+    height: 570px;
+    float: left;
+    padding: 50px 15px 20px 15px;
+    background-color: honeydew;
+    /* border: 15px solid rgb(181, 183, 184); */
+    
+}
+/* 人物肖像 */
+.d1-1 {
+    height: 200px;
+}
+/* 资料表格 */
+.td1-1 {
+    font-size: 12px;
+    font-weight: 700;
+    width: 60px;
+}
+.td1-2 {
+    font-size: 11px;
+    width: 100px;
+}
+
+
+/* 中间内容 */
+.center-box {
+    width: 800px;
+    height: 600px;
+    float: left;
+    padding: 20px 20px 20px 100px;
+    color: aliceblue;
+}
+.d2-1 {
+    height: 70px;
+}
+.d2-2 {
+    height: 470px;
+}
+.d2-3 {
+    font-family: "微软雅黑";
+    height: 60px;
+}
+
+/* 右侧内容 */
+.right-box {
+    width: 220px;
+    height: 570px;
+    float: left;
+    padding: 50px 15px 20px 15px;
+    background-color:honeydew;
+    border-radius: 10px ;
+}
+
+/* 对齐方式 */
+.t-center {
+    text-align: center;
+}
+.t-left {
+    text-align: left;
+}
+.l-height {
+    line-height: 30px;
+}
+.col-1 {
+    color: rgb(166, 233, 233)
+}
+.col-2{
+    color: rgb(255, 255, 255)
+}
+.col-3{
+    color:rgb(64, 64, 145)
+}
